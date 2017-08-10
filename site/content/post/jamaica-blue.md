@@ -6,7 +6,7 @@ description: >-
   Mountain coffee beans in our store next week. Don't ya know?
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick. Or else you will completely miss out on the coo beans.
 
 Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
@@ -27,7 +27,3 @@ Jamaican Blue Mountain Coffee is a globally protected certification mark, meanin
 The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
 
 You can find this and more at the restaurant at the end of the universe.
-
-
-
-
