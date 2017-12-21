@@ -5,7 +5,7 @@ description: >-
 
 You’ll do to. 
 
-image: /img/blog/
+image: /img/blog/aida.png
 ---
 
 You’ll do to. 
