@@ -1,10 +1,10 @@
-—
+---
 title: Using Facebook Ads to Power Your Inbound Program
 date: 2017-12-19
 description: >-
   Have you ever heard of Facebook.com? It’s all the rage with the kids. 
 image: /post/aida.png
-—
+---
 
 December 19th -Using Facebook Ads to Power Your Inbound Program
 
