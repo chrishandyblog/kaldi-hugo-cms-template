@@ -7,7 +7,7 @@ description: \>-
 image: /post/aida.png
 ---
 
-You’ll do to. 
+You’ll do to. Making a sandwich is the best way to make a friend.
 
 I want to know. 
 
