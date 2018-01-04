@@ -22,7 +22,7 @@ This Lunch & Learn will feature an informative presentation that will show you H
 
 •	Some sample campaign strategies you can take home and use.  
 
-
+![alternate text][/post/images/tickers.jpg]
 
 Cold Warmer Hot
 ![](/post/aida.png)
